@@ -13,19 +13,6 @@
 [![wakatime](https://wakatime.com/badge/user/559772f0-9c03-4114-9e11-1b4b8b998e10.svg)](https://wakatime.com/@559772f0-9c03-4114-9e11-1b4b8b998e10)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    8 hrs               █████████████████████████   99.65 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-
-🔥 Editors: 
-Edge                     8 hrs 2 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -38,5 +25,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2025 18:44:34 UTC
+ Last Updated on 09/01/2025 18:45:26 UTC
 <!--END_SECTION:waka-->
